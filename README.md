@@ -1,6 +1,6 @@
 # Online Store
-![Online Store Project](https://user-images.githubusercontent.com/97243572/169661582-1678f82f-6aab-417d-a075-bcb8c5eb4c8c.png)
 
+![Online Store Project](https://user-images.githubusercontent.com/96309515/202006121-c2dde9e2-5cb7-49ad-8897-f55ebf747017.png)
 # Sobre
 
 <p>Online Store é a construção do Front-End de um e-commerce, uma loja online, alimentada por uma API do Mercado Livre.<br>
