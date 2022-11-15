@@ -8,7 +8,9 @@ Esse projeto teve como objetivo sedimentar tudo o que aprendi até aqui usando o
 
 ## Construído com
   
+- JavaScript
 - React
+- CSS
 
 
 ## O que faz?
